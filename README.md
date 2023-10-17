@@ -11,7 +11,9 @@ Flappy Bird is an arcade-style game in which the player controls the bird Flappy
 
 # Key Components
 Programming Language - C++
+
 IDE - Visual Studio, Xcode
+
 Graphics Library - OpenGL
 
 # Screenshots
