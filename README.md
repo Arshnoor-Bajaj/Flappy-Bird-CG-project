@@ -8,3 +8,5 @@ Game Concept and Design:
 •	Includes designing the game’s visual elements (birds, pipes, background).
 
 •	Determining the game mechanics, such as how the bird will move, how the pipes will generate, and how the scoring system will work.
+
+![image](https://github.com/Arshnoor-Bajaj/Flappy-Bird-CG-project/assets/95166317/e4f193d7-4946-49a9-99d2-93940cf1aea7)
